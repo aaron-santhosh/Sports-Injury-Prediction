@@ -1,4 +1,5 @@
 Sports Injury Prediction using Machine Learning
+
 A data-driven machine learning project to predict the likelihood of sports-related injuries based on athlete biometric and activity data. This project focuses on exploratory data analysis (EDA), feature engineering, and the implementation of supervised learning models to extract actionable insights for injury prevention.
 
 📌 Project Overview
